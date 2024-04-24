@@ -1,7 +1,6 @@
-![Bannière](https://github.com/julien-gournay/julien-gournay/blob/main/BG%20Julien%20Gournay.gif?raw=true)
-
-
 # Hi, I'm Julien ! 👋
+
+![Bannière](https://github.com/julien-gournay/julien-gournay/blob/main/BG%20Julien%20Gournay.gif?raw=true)
 
 
 ## 🚀 About Me
