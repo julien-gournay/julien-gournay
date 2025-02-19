@@ -12,6 +12,8 @@ Je suis un étudiant en BTS Services Informatique aux Organisations, qui conçoi
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-gournay-71b455180/)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-gournay&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
+
 ## 🛠 Skills
 Javascript, HTML, CSS, PHP, Python
 
