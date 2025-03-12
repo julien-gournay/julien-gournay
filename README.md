@@ -13,7 +13,7 @@ Je suis un étudiant en BTS Services Informatique aux Organisations, qui conçoi
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-gournay&layout=compact&custom_title=I%20use&title_color=f8333c&card_width=445)
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=julien-gournay&theme=chartreuse-dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ijulien-gournay&theme=chartreuse-dark&hide_border=true" alt="julien-gournay's Streak"/>
 
 
 ## 🛠 Skills
