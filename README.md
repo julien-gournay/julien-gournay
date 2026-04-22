@@ -41,14 +41,14 @@ Projet autour de l’intelligence artificielle visant à concevoir une solution 
 Travail sur l’intégration d’IA, la logique applicative et l’architecture du projet.
 
 ### 💬 Y-companion (Challenge 48h)
-🔗 APPs : https://github.com/julien-gournay/ycompagnon-apps
-🔗 API : https://github.com/mohammed-tahri24/ycompagnon-api
+🔗 APPs : https://github.com/julien-gournay/ycompagnon-apps  
+🔗 API : https://github.com/mohammed-tahri24/ycompagnon-api  
 Application multi-plateforme pour accompagner les etudiants Ynov, avec une experience adaptee sur mobile, web et desktop.
 Focntionne avec une API connecté à un model d'IA pour permettre de répondre à l'utilisateur.
 
 ### 🎤 Concertotheque
-🔗 SITE WEB : [https://github.com/julien-gournay/Olympe_IA  ](https://github.com/julien-gournay/concertotheque_app)
-🔗 APP WINDOWS/MOBILE : https://github.com/julien-gournay/concertotheque_web
+🔗 SITE WEB : https://github.com/julien-gournay/concertotheque_app  
+🔗 APP WINDOWS/MOBILE : https://github.com/julien-gournay/concertotheque_web  
 Site Web de ma collection de concerts regroupant les événements et les artistes associés transformé en projet scolaire sous Flutter et Firebase.
 
 ### 🌐 Portfolio Personnel
@@ -68,7 +68,7 @@ Logiciel Java permettant la génération de brochures PDF avec base de données 
 Architecture orientée objet avec accès aux données et génération automatisée de documents.
 
 #### – Génération de la data
-🔗 [https://github.com/julien-gournay/marieteam-logiciel  ](https://github.com/julien-gournay/marieteam-laravel)
+🔗 https://github.com/julien-gournay/marieteam-laravel  
 Algorithmes permetttant la création de données tel que des ferrys, trajets, tarifs selon des conditions precises.
 
 ### 📻 Legrandberger Radio – Site Web
