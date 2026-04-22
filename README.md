@@ -17,10 +17,10 @@ Actuellement, je me spécialise dans :
 - Les projets académiques et professionnels.
 
 ## 🧑‍💻 Technologies & Tools
-- 🌐 Front-end : HTML, CSS, JavaScript, Tailwind, Flowbite
-- 🖥 Back-end : PHP, Laravel, Python, Django, Java
-- 🗄 Bases de données : MySQL, SQLite
-- ⚙️ Outils : Git, GitHub, Composer, Plesk, Home Assistant
+- 🌐 Front-end : HTML, CSS, JavaScript, Tailwind, Flowbite, Vue.js, Flutter
+- 🖥 Back-end : PHP, Laravel, Python, Django, Java, Angular, Node.js
+- 🗄 Bases de données : MySQL, SQLite, PostgreSQL
+- ⚙️ Outils : Git, GitHub, Composer, Plesk, Home Assistant, Figma
 - 🧩 Autres : API (Spotify), génération de PDF, clients lourds Java
 
 ## 📌 Projects
@@ -30,30 +30,46 @@ Actuellement, je me spécialise dans :
 🔹 Projets académiques en BTS SIO et Bachelor orientés développement logiciel  
 
 ### 🧠 CultureQuiz – Application & API
-🔗 App : https://github.com/julien-gournay/CultureQuiz_App  
+🔗 APP : https://github.com/julien-gournay/CultureQuiz_App  
 🔗 API : https://github.com/julien-gournay/CultureQuiz_Api  
 Application de quiz de culture générale accompagnée de son API dédiée.  
 Projet structuré avec séparation Front / Back, gestion des questions, scores et communication via API.
 
-### 🤖 Celestis IA
-🔗 https://github.com/julien-gournay/Celestis_IA  
+### 🤖 Olympe IA (Ydays)
+🔗 https://github.com/julien-gournay/Olympe_IA  
 Projet autour de l’intelligence artificielle visant à concevoir une solution intelligente et expérimentale.  
 Travail sur l’intégration d’IA, la logique applicative et l’architecture du projet.
+
+### 💬 Y-companion (Challenge 48h)
+🔗 APPs : https://github.com/julien-gournay/ycompagnon-apps
+🔗 API : https://github.com/mohammed-tahri24/ycompagnon-api
+Application multi-plateforme pour accompagner les etudiants Ynov, avec une experience adaptee sur mobile, web et desktop.
+Focntionne avec une API connecté à un model d'IA pour permettre de répondre à l'utilisateur.
+
+### 🎤 Concertotheque
+🔗 SITE WEB : [https://github.com/julien-gournay/Olympe_IA  ](https://github.com/julien-gournay/concertotheque_app)
+🔗 APP WINDOWS/MOBILE : https://github.com/julien-gournay/concertotheque_web
+Site Web de ma collection de concerts regroupant les événements et les artistes associés transformé en projet scolaire sous Flutter et Firebase.
 
 ### 🌐 Portfolio Personnel
 🔗 https://github.com/julien-gournay/juliengournay.fr  
 Site web portfolio présentant mes projets, compétences, parcours et réalisations en développement informatique.  
 Technologies : HTML, CSS, JavaScript, PHP.
 
-### 🚢 MarieTeam – Site Web
+### 🚢 MarieTeam
+#### – Site Web (Client Web)
 🔗 https://github.com/julien-gournay/marieteam-siteweb  
 Application web développée dans le cadre de projets académiques (BTS SIO).  
 Fonctionnalités : gestion, interface utilisateur dynamique, base de données et logique métier.
 
-### 🧾 MarieTeam – Logiciel Java (Client Lourd)
+#### – Logiciel Java (Client Lourd)
 🔗 https://github.com/julien-gournay/marieteam-logiciel  
 Logiciel Java permettant la génération de brochures PDF avec base de données SQLite locale et synchronisation serveur.  
 Architecture orientée objet avec accès aux données et génération automatisée de documents.
+
+#### – Génération de la data
+🔗 [https://github.com/julien-gournay/marieteam-logiciel  ](https://github.com/julien-gournay/marieteam-laravel)
+Algorithmes permetttant la création de données tel que des ferrys, trajets, tarifs selon des conditions precises.
 
 ### 📻 Legrandberger Radio – Site Web
 🔗 https://github.com/julien-gournay/legrandberger-radio.fr  
@@ -65,4 +81,4 @@ Technologies : PHP, HTML, CSS, JavaScript.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-gournay-71b455180/)
 
 ## 🎯 Objective
-À la recherche d’opportunités en développement informatique (alternance / stage) afin de continuer à monter en compétences et participer à des projets techniques ambitieux.
+À la recherche d'une alternance en développement informatique pour la rentrée 2026 pour un BAC+5 afin de continuer à monter en compétences et participer à des projets techniques ambitieux.
